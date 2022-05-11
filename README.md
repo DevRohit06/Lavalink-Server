@@ -1,4 +1,4 @@
-# Deploy Lavalink Server On Railway.app
+# Deploy Lavalink Server On [Railway.app](https://railway.app?referralCode=nischay)
 
 ___
 
